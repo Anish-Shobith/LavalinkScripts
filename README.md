@@ -6,3 +6,8 @@ curl -sL https://raw.githubusercontent.com/Anish-Shobith/LavalinkScripts/master/
 ```
 
 Others comming soon stay tunned.
+
+To start the the script for Linux
+```md
+./LavalinkInstaller.sh
+```
