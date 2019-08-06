@@ -1,7 +1,7 @@
 # LavalinkScripts
 
-# For Debian and Ubuntu based Linux distributions
 ```md
+# For Debian and Ubuntu based Linux distributions
 curl -sL https://raw.githubusercontent.com/Anish-Shobith/LavalinkScripts/master/apt.sh -o LavalinkInstaller.sh && chmod +x LavalinkInstaller.sh
 ```
 
